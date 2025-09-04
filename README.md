@@ -1,5 +1,11 @@
 # Chatbot Gemini
 
+## Result
+
+<img width="1158" height="677" alt="image" src="https://github.com/user-attachments/assets/fbd480a7-2792-4d23-ac35-e9fce3aed385" />
+
+<img width="1135" height="625" alt="image" src="https://github.com/user-attachments/assets/727bd4fa-08cf-47da-8008-f13f089dee3d" />
+
 ## Setup dan Menjalankan Aplikasi
 
 ### Backend
