@@ -1,0 +1,9 @@
+Berikut perintah di terminal Windows untuk mematikan proses di port 3001:
+
+1. Cari PID proses yang menggunakan port 3001:
+  netstat -ano | findstr :3001
+
+2. Setelah dapat PID (misal 12345), hentikan prosesnya:
+taskkill /PID 12345 /F
+
+Ganti 12345 dengan PID yang Anda temukan. Setelah itu, port 3001 akan nonaktif dan bisa digunakan kembali.
